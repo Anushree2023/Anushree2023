@@ -104,7 +104,7 @@ An AI-powered Android app that **scans packaged-food labels with OCR and classif
 <div align="center">
 
 <a href="https://github.com/Anushree2023"><img src="https://img.shields.io/badge/GitHub-Follow-0B1220?style=for-the-badge&logo=github&logoColor=8FB4FF" /></a>
-<a href="https://www.linkedin.com/in/anushree-thosar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=8FB4FF" /></a>
+<a href="www.linkedin.com/in/anushree-thosar-2776a2206"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=8FB4FF" /></a>
 
 <br/><br/>
 
