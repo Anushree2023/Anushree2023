@@ -4,8 +4,11 @@
 
 <br/>
 
-<a href="https://github.com/Anushree2023">
+<!-- <a href="https://github.com/Anushree2023">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=8FB4FF&center=true&vCenter=true&width=720&height=45&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Microservices;Core+Banking+with+Temenos+Transact+(T24);AWS+Certified+Cloud+Practitioner;Building+secure%2C+scalable+systems" alt="Typing SVG" />
+</a> -->
+<a href="https://github.com/Anushree2023">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=8FB4FF&center=true&vCenter=true&width=560&height=45&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Microservices;Core+Banking+with+Temenos+Transact+(T24);AWS+Certified+Cloud+Practitioner;Building+secure%2C+scalable+systems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,10 +31,8 @@ Hi, I'm **Anushree** 👋 — a Computer Science Engineering graduate (B.Tech, C
 Right now I'm an **Analyst – Financial Services at Capgemini**, working on a **core banking project with Temenos Transact (T24)**. Outside of work I build AI-integrated products, from loan platforms with LLM-based risk assessment to OCR-powered mobile apps.
 
 ```text
-🏦  Currently   →  Core banking on Temenos Transact (T24) @ Capgemini
 ☁️  Certified   →  AWS Certified Cloud Practitioner
-🤖  Exploring   →  Spring AI, Ollama, n8n & AI automation
-📍  Based in    →  Bengaluru, India
+📍  Based in    →  India
 ```
 
 <br/>
@@ -75,11 +76,6 @@ A secure loan management platform with **JWT authentication**, **role-based acce
 An AI-powered Android app that **scans packaged-food labels with OCR and classifies harmful ingredients**, enabling real-time analysis for safer purchasing decisions.
 - 👩‍💻 Led a **4-member team** across feature development, integration and testing
 
-### 📣 Digital Marketing AI Agent
-`n8n` `Android` `APIs` `AI Automation`
-
-An AI marketing automation agent connected to an Android app for real-time interaction.
-- ⚙️ Automated web scraping, AI content & thumbnail generation, and hashtag optimization
 
 <br/>
 
