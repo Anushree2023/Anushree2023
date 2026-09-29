@@ -1,8 +1,12 @@
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1557821552-17105176677c?w=1200&h=300&fit=crop" alt="Banner" style="width:100%;height:300px;object-fit:cover;border-radius:10px;margin-bottom:30px;" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Anushree2023;Spring+Boot+Backend+Developer;AWS+%7C+Java+%7C+Cloud+Architecture;Building+scalable+systems+with+clean+code" />
+<div align="center">
 
-  <h1>ShadowChilly</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Evolve%2C+adapt%2C+become.;Spring+Boot+Backend+Developer;AWS+%7C+Java+%7C+Cloud+Architecture;Building+scalable+systems+with+precision" />
+
+  <h1>Anushree</h1>
 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -15,56 +19,83 @@
 
 </div>
 
-<p align="center">
-  <strong>Backend Engineer</strong> building reliable APIs, cloud-ready systems, and scalable backend solutions.
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-REST_APIs-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-SpringBoot-6DB33F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-Distributed_Systems-14B8A6?style=flat-square" />
-</p>
+### 🚀 About Me
+
+Backend engineer crafting high-performance, scalable systems. I specialize in building robust APIs and cloud-native applications using Spring Boot and AWS. Passionate about clean architecture, efficient database design, and delivering production-ready solutions.
+
+- 💻 Spring Boot expertise with focus on RESTful API design
+- ☁️ AWS cloud infrastructure and deployment optimization
+- 🧩 Microservices architecture and distributed systems
+- 📊 Database optimization and query performance tuning
+- 🔐 Security-first backend development approach
+- 🚀 Continuous learning and implementation of best practices
 
 ---
 
-### About Me
+### 🛠️ Technical Stack
 
-- 💻 Backend developer specializing in Spring Boot
-- ☁️ Experienced with AWS and cloud deployment workflows
-- 🧩 Interested in scalable APIs, clean architecture, and production-grade systems
-- 📦 Passionate about performance, reliability, and maintainable code
-- 🚀 Always learning backend patterns, monitoring, and cloud-first design
-
----
-
-### Tech Stack
-
+**Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+
+**Databases & Caching**
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
+**Tools & Utilities**
+<p align="left">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### Current Focus
+### 📌 Core Competencies
 
-- Building backend systems with clean architecture
-- AWS deployment and cloud optimization
-- API security and performance tuning
-- Reliable data flows and service scalability
+| Area | Expertise |
+|------|-----------|
+| **Backend Development** | Spring Boot, RESTful APIs, Microservices Architecture |
+| **Cloud Platforms** | AWS (EC2, RDS, S3, Lambda, CloudWatch) |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis caching strategies |
+| **DevOps** | Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code |
+| **Design Patterns** | MVC, Dependency Injection, Repository Pattern, Singleton |
+| **API Design** | RESTful principles, API versioning, Rate limiting, Authentication |
 
 ---
 
-### GitHub Stats
+### 🎯 Key Skills
+
+- **API Development**: Design and implement scalable REST APIs with proper error handling
+- **Database Design**: Optimize queries, indexing, and normalization for performance
+- **Cloud Architecture**: Deploy and manage applications on AWS infrastructure
+- **Performance Optimization**: Caching strategies, load balancing, query optimization
+- **Security**: Authentication, authorization, encryption, secure coding practices
+- **Testing**: Unit testing, Integration testing, Mock testing with JUnit & Mockito
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anushree2023&show_icons=true&theme=radical&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117" />
@@ -80,16 +111,33 @@
 
 ---
 
-### Featured Projects
+### 💡 What I'm Working On
 
-- [Project 1](https://github.com/Anushree2023/project-1)
-- [Project 2](https://github.com/Anushree2023/project-2)
-- [Project 3](https://github.com/Anushree2023/project-3)
+- Exploring advanced Kubernetes deployment patterns
+- Deep diving into Spring Cloud ecosystem
+- Implementing event-driven architectures with Kafka
+- Optimizing cloud costs on AWS infrastructure
 
-> Replace these with your real repo links later.
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-anushreethosar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushreethosar@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushree2023)
+  
+</div>
 
 ---
 
 <p align="center">
-  <i>“Building backend systems that are scalable, elegant, and production-ready.”</i>
+  <i>Evolve, adapt, become. Building backend systems that scale. ✨</i>
 </p>
+
+<div align="center">
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anushree2023.Anushree2023&left_color=black&right_color=A78BFA)
+  
+</div>
