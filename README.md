@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Evolve, adapt, become. — Anushree" width="100%" />
+<img src="./img.png" alt="Evolve, adapt, become. — Anushree" width="100%" />
 
 <br/>
 
