@@ -83,22 +83,6 @@ An AI marketing automation agent connected to an Android app for real-time inter
 
 <br/>
 
-## ✦ Experience
-
-```text
-2026 — Present   Capgemini India Pvt. Ltd.  ·  Analyst, Financial Services  ·  Bengaluru
-                 ↳ BOQ Australia core banking project on Temenos Transact (T24)
-                 ↳ Temenos architecture, Arrangement Architecture (AA), Versions, Routines
-                 ↳ Banking fundamentals, transaction processing & application customization
-
-2025             Custofar Technologies  ·  Software Development Engineer Intern  ·  Nagpur
-                 ↳ NewsOne — responsive news platform (React.js, Next.js, Tailwind CSS)
-                 ↳ Social Graphs — Twitter-style platform (GraphQL, Apollo Client, influence graphs)
-                 ↳ Reusable UI components, testing & debugging in an Agile environment
-```
-
-<br/>
-
 ## ✦ GitHub Stats
 
 <div align="center">
@@ -120,7 +104,6 @@ An AI marketing automation agent connected to an Android app for real-time inter
 
 <a href="https://github.com/Anushree2023"><img src="https://img.shields.io/badge/GitHub-Follow-0B1220?style=for-the-badge&logo=github&logoColor=8FB4FF" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=8FB4FF" /></a>
-<a href="mailto:anushreethosar@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0B1220?style=for-the-badge&logo=gmail&logoColor=8FB4FF" /></a>
 
 <br/><br/>
 
