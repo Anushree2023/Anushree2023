@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+ANusree2023;Spring+Boot+Backend+Developer;AWS+%7C+Java+%7C+Cloud+Architecture;Building+reliable+systems+with+clean+code" />
 
-  <h1>ANusree2023</h1>
+  <h1>ShadowChilly</h1>
 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
