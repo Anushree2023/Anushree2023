@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+ANusree2023;Spring+Boot+Backend+Developer;AWS+%7C+Java+%7C+Cloud+Architecture;Building+reliable+systems+with+clean+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Anushree2023;Spring+Boot+Backend+Developer;AWS+%7C+Java+%7C+Cloud+Architecture;Building+scalable+systems+with+clean+code" />
 
   <h1>ShadowChilly</h1>
 
@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <strong>Backend Engineer</strong> building scalable APIs, cloud-ready systems, and clean backend architecture.
+  <strong>Backend Engineer</strong> building reliable APIs, cloud-ready systems, and scalable backend solutions.
 </p>
 
 <p align="center">
@@ -67,26 +67,26 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANusree2023&show_icons=true&theme=radical&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushree2023&show_icons=true&theme=radical&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANusree2023&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushree2023&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree2023&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=A78BFA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree2023&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=A78BFA" />
 </div>
 
 ---
 
 ### Featured Projects
 
-- [Project 1](https://github.com/Anusree2023/project-1)
-- [Project 2](https://github.com/Anusree2023/project-2)
-- [Project 3](https://github.com/Anusree2023/project-3)
+- [Project 1](https://github.com/Anushree2023/project-1)
+- [Project 2](https://github.com/Anushree2023/project-2)
+- [Project 3](https://github.com/Anushree2023/project-3)
 
-> Replace these links with your actual repositories later.
+> Replace these with your real repo links later.
 
 ---
 
