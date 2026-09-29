@@ -26,9 +26,14 @@
 
 ## ✦ About Me
 
-Hi, I'm **Anushree** 👋 — a Computer Science Engineering graduate (B.Tech, Cyber Security · **9.04 CGPA**) who builds secure, scalable backend systems with **Java, Spring Boot, Microservices and REST APIs**.
+# Hi, I'm Anushree 👋
 
-Right now I'm an **Analyst – Financial Services at Capgemini**, working on a **core banking project with Temenos Transact (T24)**. Outside of work I build AI-integrated products, from loan platforms with LLM-based risk assessment to OCR-powered mobile apps.
+I build **secure, scalable backend applications** with **Java, Spring Boot, Microservices,Next js, and REST APIs**, with a growing interest in **AI-powered solutions** and **enterprise banking technology**.
+
+I'm a **Computer Science Engineering graduate** with hands-on exposure to **Temenos Transact (T24)**, including **Arrangement Architecture**, **Version development**, **Routines**, and core banking workflows. I have a strong foundation in **banking fundamentals**, including accounts, deposits, loans, payments, customer lifecycle, and transaction processing, and I enjoy building software that bridges modern engineering with financial systems.
+
+Always learning. Always building.
+
 
 ```text
 ☁️  Certified   →  AWS Certified Cloud Practitioner
