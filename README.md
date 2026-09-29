@@ -75,16 +75,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANusree2023&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=A78BFA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree2023&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=A78BFA" />
 </div>
 
 ---
 
 ### Featured Projects
 
-- [Project 1](https://github.com/ANusree2023/project-1)
-- [Project 2](https://github.com/ANusree2023/project-2)
-- [Project 3](https://github.com/ANusree2023/project-3)
+- [Project 1](https://github.com/Anusree2023/project-1)
+- [Project 2](https://github.com/Anusree2023/project-2)
+- [Project 3](https://github.com/Anusree2023/project-3)
 
 > Replace these links with your actual repositories later.
 
