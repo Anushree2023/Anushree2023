@@ -1,141 +1,131 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1557821552-17105176677c?w=1200&h=300&fit=crop" alt="Banner" style="width:100%;height:300px;object-fit:cover;border-radius:10px;margin-bottom:30px;" />
+
+<img src="./assets/banner.png" alt="Evolve, adapt, become. — Anushree" width="100%" />
+
+<br/>
+
+<a href="https://github.com/Anushree2023">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=8FB4FF&center=true&vCenter=true&width=720&height=45&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Microservices;Core+Banking+with+Temenos+Transact+(T24);AWS+Certified+Cloud+Practitioner;Building+secure%2C+scalable+systems" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=8FB4FF" />
+<img src="https://img.shields.io/badge/Spring_Boot-0B1220?style=for-the-badge&logo=springboot&logoColor=8FB4FF" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=8FB4FF" />
+<img src="https://img.shields.io/badge/AWS-0B1220?style=for-the-badge&logo=amazonaws&logoColor=8FB4FF" />
+<img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=8FB4FF" />
+<img src="https://img.shields.io/badge/Temenos_T24-0B1220?style=for-the-badge&logoColor=8FB4FF" />
+
 </div>
+
+<br/>
+
+## ✦ About Me
+
+Hi, I'm **Anushree** 👋 — a Computer Science Engineering graduate (B.Tech, Cyber Security · **9.04 CGPA**) who builds secure, scalable backend systems with **Java, Spring Boot, Microservices and REST APIs**.
+
+Right now I'm an **Analyst – Financial Services at Capgemini**, working on a **core banking project with Temenos Transact (T24)**. Outside of work I build AI-integrated products, from loan platforms with LLM-based risk assessment to OCR-powered mobile apps.
+
+```text
+🏦  Currently   →  Core banking on Temenos Transact (T24) @ Capgemini
+☁️  Certified   →  AWS Certified Cloud Practitioner
+🤖  Exploring   →  Spring AI, Ollama, n8n & AI automation
+📍  Based in    →  Bengaluru, India
+```
+
+<br/>
+
+## ✦ Tech Stack
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Evolve%2C+adapt%2C+become.;Spring+Boot+Backend+Developer;AWS+%7C+Java+%7C+Cloud+Architecture;Building+scalable+systems+with+precision" />
-
-  <h1>Anushree</h1>
-
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  </p>
+<img src="https://skillicons.dev/icons?i=java,cpp,spring,postgres,aws,docker,git,jenkins&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,graphql,html,css,androidstudio,postman&theme=dark" />
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+| | |
+|:--|:--|
+| **Languages** | Java · C++ · SQL |
+| **Backend** | Spring Boot · Spring Security · JPA · REST APIs · Microservices · JWT |
+| **Core Banking** | Temenos Transact (T24) · Arrangement Architecture (AA) · Versions & Routines |
+| **Frontend** | React.js · Next.js · Tailwind CSS · GraphQL · Apollo Client |
+| **Cloud & DevOps** | AWS · Docker · Git · Jenkins CI/CD · SonarQube |
+| **Testing** | JUnit · Mockito |
+| **AI & Automation** | Spring AI (Ollama) · OCR · n8n |
 
-Backend engineer crafting high-performance, scalable systems. I specialize in building robust APIs and cloud-native applications using Spring Boot and AWS. Passionate about clean architecture, efficient database design, and delivering production-ready solutions.
+<br/>
 
-- 💻 Spring Boot expertise with focus on RESTful API design
-- ☁️ AWS cloud infrastructure and deployment optimization
-- 🧩 Microservices architecture and distributed systems
-- 📊 Database optimization and query performance tuning
-- 🔐 Security-first backend development approach
-- 🚀 Continuous learning and implementation of best practices
+## ✦ Featured Projects
 
----
+### 🏦 Loan Management System
+`Java` `Spring Boot` `PostgreSQL` `Spring Security` `JWT` `Spring AI` `Jenkins`
 
-### 🛠️ Technical Stack
+A secure loan management platform with **JWT authentication**, **role-based access control** and end-to-end loan application and approval workflows.
+- 🤖 Integrated **Spring AI (Ollama)** for AI-based loan risk assessment and a customer-support chatbot
+- ✅ Tested with **JUnit & Mockito**, quality-gated with **SonarQube**, shipped through **Jenkins CI/CD**
 
-**Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
+### 🥗 SafeBite
+`Android` `OCR` `AI/ML`
 
-**Databases & Caching**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+An AI-powered Android app that **scans packaged-food labels with OCR and classifies harmful ingredients**, enabling real-time analysis for safer purchasing decisions.
+- 👩‍💻 Led a **4-member team** across feature development, integration and testing
 
-**Cloud & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
+### 📣 Digital Marketing AI Agent
+`n8n` `Android` `APIs` `AI Automation`
 
-**Tools & Utilities**
-<p align="left">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+An AI marketing automation agent connected to an Android app for real-time interaction.
+- ⚙️ Automated web scraping, AI content & thumbnail generation, and hashtag optimization
 
----
+<br/>
 
-### 📌 Core Competencies
+## ✦ Experience
 
-| Area | Expertise |
-|------|-----------|
-| **Backend Development** | Spring Boot, RESTful APIs, Microservices Architecture |
-| **Cloud Platforms** | AWS (EC2, RDS, S3, Lambda, CloudWatch) |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis caching strategies |
-| **DevOps** | Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code |
-| **Design Patterns** | MVC, Dependency Injection, Repository Pattern, Singleton |
-| **API Design** | RESTful principles, API versioning, Rate limiting, Authentication |
+```text
+2026 — Present   Capgemini India Pvt. Ltd.  ·  Analyst, Financial Services  ·  Bengaluru
+                 ↳ BOQ Australia core banking project on Temenos Transact (T24)
+                 ↳ Temenos architecture, Arrangement Architecture (AA), Versions, Routines
+                 ↳ Banking fundamentals, transaction processing & application customization
 
----
+2025             Custofar Technologies  ·  Software Development Engineer Intern  ·  Nagpur
+                 ↳ NewsOne — responsive news platform (React.js, Next.js, Tailwind CSS)
+                 ↳ Social Graphs — Twitter-style platform (GraphQL, Apollo Client, influence graphs)
+                 ↳ Reusable UI components, testing & debugging in an Agile environment
+```
 
-### 🎯 Key Skills
+<br/>
 
-- **API Development**: Design and implement scalable REST APIs with proper error handling
-- **Database Design**: Optimize queries, indexing, and normalization for performance
-- **Cloud Architecture**: Deploy and manage applications on AWS infrastructure
-- **Performance Optimization**: Caching strategies, load balancing, query optimization
-- **Security**: Authentication, authorization, encryption, secure coding practices
-- **Testing**: Unit testing, Integration testing, Mock testing with JUnit & Mockito
-
----
-
-### 📊 GitHub Stats
+## ✦ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushree2023&show_icons=true&theme=radical&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anushree2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8FB4FF&icon_color=8FB4FF&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8FB4FF&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Anushree2023&theme=tokyonight&hide_border=true&background=0d1117&ring=8FB4FF&fire=8FB4FF&currStreakLabel=8FB4FF" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushree2023&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
+<br/>
+
+## ✦ Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree2023&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=A78BFA" />
-</div>
 
----
+<a href="https://github.com/Anushree2023"><img src="https://img.shields.io/badge/GitHub-Follow-0B1220?style=for-the-badge&logo=github&logoColor=8FB4FF" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=8FB4FF" /></a>
+<a href="mailto:anushreethosar@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0B1220?style=for-the-badge&logo=gmail&logoColor=8FB4FF" /></a>
 
-### 💡 What I'm Working On
+<br/><br/>
 
-- Exploring advanced Kubernetes deployment patterns
-- Deep diving into Spring Cloud ecosystem
-- Implementing event-driven architectures with Kafka
-- Optimizing cloud costs on AWS infrastructure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1E3A5F&height=110&section=footer" width="100%" />
 
----
+<sub><i>Evolve, adapt, become.</i></sub>
 
-### 📬 Get In Touch
-
-<div align="center">
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushree2023)
-  
-</div>
-
----
-
-<p align="center">
-  <i>Evolve, adapt, become. Building backend systems that scale. ✨</i>
-</p>
-
-<div align="center">
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anushree2023.Anushree2023&left_color=black&right_color=A78BFA)
-  
 </div>
