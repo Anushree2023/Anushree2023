@@ -123,9 +123,7 @@ Backend engineer crafting high-performance, scalable systems. I specialize in bu
 ### 📬 Get In Touch
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-anushreethosar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushreethosar@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushree2023)
   
 </div>
